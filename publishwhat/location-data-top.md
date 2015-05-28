@@ -1,11 +1,10 @@
 ---
-title: location-data-top
+title: Location Data
 layout: default
-
 menu_tagline: This set of guides provides information about location data (AKA spatial, GI, GeoSpatial data) including INSPIRE Data.
 ---
 
-{% include menusection.html coll=site.data.guides.sections.LocationData subpath="/publishwhat/" %}
+{% include menusection.html coll=site.data.publishwhat.sections.LocationData subpath="/publishwhat/" %}
 
 # Start
 ## writing 
