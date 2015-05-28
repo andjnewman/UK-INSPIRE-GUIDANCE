@@ -1,8 +1,8 @@
 ---
-title: About Us
+title: Contact Us
 layout: default
 
-menu_tagline: Read more about the Linked Data Working Group.
+menu_tagline: Speak to a human about INSPIRE.
 ---
 
 {% include menusection.html coll=site.data.about-us %}
