@@ -1,4 +1,4 @@
 name: UK Government Linked Data Working Group
 relative_permalinks: true
-rootpath: "http://ukgovld.github.io/ukgovldwg" # NO TRAILING SLASH
-# rootpath: "/~/ukgovldwg/_site" # for development
+rootpath: "http://andjnewman.github.io/UK-INSPIRE-GUIDANCE" # NO TRAILING SLASH
+
