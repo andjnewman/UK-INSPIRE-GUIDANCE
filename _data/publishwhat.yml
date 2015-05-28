@@ -25,5 +25,5 @@ sections:
     title: LocationData
     menupage: location-data-top
     pages:
-      - what-is-location-data
-      - inspire
+      - what-is-inspire
+      - is-my-data-inspire-data

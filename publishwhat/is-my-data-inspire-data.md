@@ -1,8 +1,8 @@
 ---
-title: what-is-location-data
+title: Is my data INSPIRE data?
 layout: publishwhat_guides
 author: Andrew
-abstract: "add an abstract of your guide"
+abstract: "This guide will help you identify if your data is in-scope of INSPIRE"
 ---
 
 # Start
