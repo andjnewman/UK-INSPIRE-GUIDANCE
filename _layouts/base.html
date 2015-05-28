@@ -23,8 +23,7 @@
                         {% assign current_section = page.url | remove_first:'/' | split:"/" | first %}
                         <li><a {% if current_section == "guides" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.guides.subpath }}">{{ site.data.guides.title }}</a></li>
                         <li><a {% if current_section == "recommendations" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.recommendations.subpath }}">{{ site.data.recommendations.title }}</a></li>
-                       <li><a {% if current_section == "about-us" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.about-us.subpath }}">{{ site.data.about-us.title }}</a></li>
-                        <li><a {% if current_section == "contact-us" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.contact-us.subpath }}">{{ site.data.contact-us.title }}</a></li>
+                       <li><a {% if current_section == "contact-us" %}class="active"{% endif %} href="{{ site.rootpath }}{{ site.data.contact-us.subpath }}">{{ site.data.contact-us.title }}</a></li>
                     </ul>
                 </div>
             </nav>
