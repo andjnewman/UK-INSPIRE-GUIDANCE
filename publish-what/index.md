@@ -2,7 +2,7 @@
 title: What data should be published?
 layout: default
 
-menu_tagline: This section describes the types of data that can be published to data.gov.uk
+menu_tagline: This section describes the types of data that can be published to data.gov.uk.
 ---
 
 <div class="row">
