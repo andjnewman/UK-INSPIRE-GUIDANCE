@@ -1,9 +1,11 @@
 ---
 title: location-data-top
-layout: guides
-author: Andrew
-abstract: "add an abstract of your guide"
+layout: default
+
+menu_tagline: This set of guides provides information about location data (AKA spatial, GI, GeoSpatial data) including INSPIRE Data.
 ---
+
+{% include menusection.html coll=site.data.guides.sections.LocationData subpath="/publishwhat/" %}
 
 # Start
 ## writing 

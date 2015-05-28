@@ -1,6 +1,6 @@
 ---
 title: Organograms
-layout: guides
+layout: publishwhat_guides
 author: Andrew
 abstract: "add an abstract of your guide"
 ---

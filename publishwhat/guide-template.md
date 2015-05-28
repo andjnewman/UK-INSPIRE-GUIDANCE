@@ -1,6 +1,6 @@
 ---
 title: Title of your guide
-layout: guides
+layout: publishwhat_guides
 author: Your Name
 abstract: "add an abstract of your guide"
 ---

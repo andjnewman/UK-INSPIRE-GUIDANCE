@@ -21,8 +21,8 @@ sections:
       - spend-data
       - organograms
 
-  Location Data:
-    title: Location Data
+  LocationData:
+    title: LocationData
     menupage: location-data-top
     pages:
       - what-is-location-data
