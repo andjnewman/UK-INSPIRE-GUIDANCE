@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: About Us
 layout: default
 
 menu_tagline: Speak to a human about INSPIRE.
