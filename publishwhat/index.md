@@ -1,8 +1,8 @@
 ---
-title: publishwhat
+title: What's on DATA.GOV.UK?
 layout: default
 
-menu_tagline: publishwhat
+menu_tagline: Find out what types of data can be listed on DATA.GOV.UK
 ---
 
 <div class="row">
