@@ -11,6 +11,6 @@
 # - it's possible to have a file in the folder, published online, but not
 #   included in the menu (eg index.html)
 
-title: Further Reading
-subpath: /further-reading/
+title: Contact Us
+subpath: /contact-us/
 pages:
