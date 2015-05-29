@@ -29,6 +29,21 @@ INSPIRE demands that any new or extensively restructured data be made compliant 
 
 ##INSPIRE Timeline
 
+The full INSPIRE timeline is setout below:
+
+Date | Milestone | Notes
+---- | --------- | ------ 
+December 2010 | Compliant discovery metadata created (and available) for INSPIRE Annex I & II datasets | x
+May 2011 | View services established for INSPIRE Annex I & II datasets (start of initial operating capability). | Not required to meet INSPIRE quality of service criteria.
+November 2011 | Full view services established for INSPIRE Annex I & II datasets (end of initial operating capability). | Required to meet INSPIRE quality of service criteria.
+June 2012 | Download and coordinate transformation services established (start of initial operating capability). | x
+December 2012 | Full download & coordinate transformation services capability (end of initial operating capability). | Required to meet INSPIRE quality of service criteria.
+December 2013 | Full discovery metadata, view and download services made available for INSPIRE Annex III datasets | x
+December 2012 | Newly collected and extensively restructured INSPIRE Annex I compliant data available | x
+October 2015 | Newly collected and extensively restructured INSPIRE Annex II and III compliant data available. | x
+June 2017 | INSPIRE Annex I compliant data available | x
+October 2020 | INSPIRE Annex II and III compliant data available | x
+
 # INSPIRE Legislation
 
 ##European Legislation
