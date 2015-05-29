@@ -1,4 +1,4 @@
-﻿---
+---
 title: what-is-inspire
 layout: publishwhat_guides
 author: Andrew
@@ -33,16 +33,16 @@ The full INSPIRE timeline is setout below:
 
 Date | Milestone | Notes
 ---- | --------- | ------ 
-December 2010 | Compliant discovery metadata created (and available) for INSPIRE Annex I & II datasets |  
+December 2010 | Compliant discovery metadata created (and available) for INSPIRE Annex I & II datasets | x
 May 2011 | View services established for INSPIRE Annex I & II datasets (start of initial operating capability). | Not required to meet INSPIRE quality of service criteria.
 November 2011 | Full view services established for INSPIRE Annex I & II datasets (end of initial operating capability). | Required to meet INSPIRE quality of service criteria.
-June 2012 | Download and coordinate transformation services established (start of initial operating capability). | 
+June 2012 | Download and coordinate transformation services established (start of initial operating capability). | x
 December 2012 | Full download & coordinate transformation services capability (end of initial operating capability). | Required to meet INSPIRE quality of service criteria.
-December 2013 | Full discovery metadata, view and download services made available for INSPIRE Annex III datasets | 
-December 2012 | Newly collected and extensively restructured INSPIRE Annex I compliant data available | 
-October 2015 | Newly collected and extensively restructured INSPIRE Annex II and III compliant data available. | 
-June 2017 | INSPIRE Annex I compliant data available | 
-October 2020 | INSPIRE Annex II and III compliant data available | 
+December 2013 | Full discovery metadata, view and download services made available for INSPIRE Annex III datasets | x
+December 2012 | Newly collected and extensively restructured INSPIRE Annex I compliant data available | x
+October 2015 | Newly collected and extensively restructured INSPIRE Annex II and III compliant data available. | x
+June 2017 | INSPIRE Annex I compliant data available | x
+October 2020 | INSPIRE Annex II and III compliant data available | x
 
 # INSPIRE Legislation
 
@@ -58,7 +58,7 @@ To ensure that the spatial data infrastructures of the member states are compati
 
 ## The UK INSPIRE Regulations
 
-To implement INSPIRE in the UK separate but broadly consistent regulations covering England, Northern Ireland and Wales; [(SI 2009 No 3157)](http://www.opsi.gov.uk/si/si2009/uksi_20093157_en_1) and Scotland [(SSI 2009 No 440)](http://www.opsi.gov.uk/legislation/scotland/ssi2009/ssi_20090440_en_1) came into effect on 31 December 2009. The [INSPIRE (Amendment) Regulations 2012](http://www.legislation.gov.uk/uksi/2012/1672/contents/made) continue the transposition into UK law of INSPIRE these came into effect on 1 August 2012. The [INSPIRE (Scotland) Amendment Regulations 2012](http://www.legislation.gov.uk/ssi/2012/284/contents/made) came into effect on 23 November 2012.
+To implement INSPIRE in the UK separate but broadly consistent regulations covering England, Northern Ireland and Wales; [SI 2009 No 3157](http://www.opsi.gov.uk/si/si2009/uksi_20093157_en_1) and Scotland [SSI 2009 No 440](http://www.opsi.gov.uk/legislation/scotland/ssi2009/ssi_20090440_en_1) came into effect on 31 December 2009. The [INSPIRE (Amendment) Regulations 2012](http://www.legislation.gov.uk/uksi/2012/1672/contents/made) continue the transposition into UK law of INSPIRE these came into effect on 1 August 2012. The [INSPIRE (Scotland) Amendment Regulations 2012](http://www.legislation.gov.uk/ssi/2012/284/contents/made) came into effect on 23 November 2012.
 
 The INSPIRE (Amendment) Regulations 2012 update the INSPIRE Regulations 2009 to take account of technical Implementing Rules made by the European Commission since the INSPIRE Directive was made. Further amending statutory instruments may be introduced if required to complete transposition as new EC IRs are made.
 
