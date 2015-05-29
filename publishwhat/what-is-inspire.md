@@ -44,8 +44,6 @@ October 2015 | Newly collected and extensively restructured INSPIRE Annex II and
 June 2017 | INSPIRE Annex I compliant data available | 
 October 2020 | INSPIRE Annex II and III compliant data available | 
 
-
-
 # INSPIRE Legislation
 
 ##European Legislation
@@ -67,5 +65,3 @@ The INSPIRE (Amendment) Regulations 2012 update the INSPIRE Regulations 2009 to 
 A informal consolidated text of the INSPIRE Regulations which shows the some amendments made in August 2012 is available [in the data.gov.uk library](http://data.gov.uk/library/uklp-inspire-regulations-informal-text).
 
 An impact assessment for implementation of INSPIRE in England, Wales and Northern Ireland is available as part of the [Explanatory Memorandum](http://www.legislation.gov.uk/uksi/2009/3157/pdfs/uksiem_20093157_en.pdf) which accompanies the INSPIRE Regulations 2009.
-
-
