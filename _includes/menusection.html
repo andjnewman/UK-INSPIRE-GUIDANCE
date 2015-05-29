@@ -23,12 +23,14 @@
 {% if include.tagline %}{% assign the_tagline = include.tagline %}{% endif %}
 {% if include.subpath %}{% assign the_subpath = include.subpath %}{% endif %}
 
+<!--
 <div class="row">
 	<div class="two-thirds">
 		<h1>{{ the_title }}</h1>
 		<h2 class="descriptive">{{ the_tagline }}</h2>
 	</div>
 </div>
+-->
 <div class="row">
 	<div class="three-thirds columnise-lists">
 		{% include collection_to_list.html coll=the_coll subpath=the_subpath descriptions=abstract %}
