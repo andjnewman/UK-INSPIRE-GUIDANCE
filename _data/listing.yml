@@ -11,19 +11,18 @@
 # - it's possible to have a file in the folder, published online, but not
 #   included in the menu (eg index.html)
 
-title: Listing
+title: How to list resorces on DATA.GOV.UK
 subpath: /listing/
 
 sections:
   intro:
-    title: Introduction to Linked Data
+    title: Introduction to DATA.GOV.UK
     pages:
       - what-is
       - best-practices
 
-  vocabularies:
-    title: Vocabularies
-    menupage: menu-vocabularies
+  creating-metadata:
+    title: Creating Metadata
     pages:
       - why-vocabularies
       - organization
@@ -34,14 +33,14 @@ sections:
       - provenance
       - skos
 
-  identifiers:
-    title: Identifiers
+  registering:
+    title: Registering Metadata with DATA.GOV.UK
     pages:
       - what-is-a-persistent-identifier
       - reference-uris
 
-  publishing:
-    title: Publishing Data
+  gemini:
+    title: UK GEMINI 2.1
     pages:
       - registry
       - publishing-codelists
@@ -49,27 +48,10 @@ sections:
       - owl
       - publishing-data-in-local-government
 
-  using:
-    title: Using Data
+  dcat:
+    title: DCAT
     pages:
       - sparql
-
-  spatial:
-    title: Spatial
-    pages:
-      - inspire
-      - geosparql
-
-  technologies:
-    title: Technologies
-    pages:
-      - rdf
-      - sparql
-      - standards
-      - registries
-      - query-translation
-      - apis
-      - indexing
 
   tools:
     title: Tools
