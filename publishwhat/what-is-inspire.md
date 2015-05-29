@@ -17,6 +17,10 @@ INSPIRE will enable data users to access and reuse data from multiple providers 
 
 INSPIRE complements the government's transparency and open data policies. Contributing directly to improvements in the way that data are published, and making it easier for users across the public, private and third sector to find data, and reuse it.
 
+## What do data owners need to do?
+
+ 
+
 ## INSPIRE Deadlines
 
 INSPIRE imposes challenging deadlines, by December 2013 any data in scope of INSPIRE should have been published in-line with mandated technical standards. Between 2012 and 2020, a standard set of data models must be applied to data to make it interoperable across Europe.
@@ -56,10 +60,10 @@ To ensure that the spatial data infrastructures of the member states are compati
 
 ### The UK INSPIRE Regulations
 
-To implement INSPIRE in the UK separate but broadly consistent regulations covering England, Northern Ireland and Wales; [SI 2009 No 3157](http://www.opsi.gov.uk/si/si2009/uksi_20093157_en_1) and Scotland [SSI 2009 No 440](http://www.opsi.gov.uk/legislation/scotland/ssi2009/ssi_20090440_en_1) came into effect on 31 December 2009. The [INSPIRE (Amendment) Regulations 2012](http://www.legislation.gov.uk/uksi/2012/1672/contents/made) continue the transposition into UK law of INSPIRE these came into effect on 1 August 2012. The [INSPIRE (Scotland) Amendment Regulations 2012](http://www.legislation.gov.uk/ssi/2012/284/contents/made) came into effect on 23 November 2012.
+To implement INSPIRE in the UK separate but broadly consistent regulations covering England, Northern Ireland and Wales; [SI 2009 No 3157](http://www.opsi.gov.uk/si/si2009/uksi_20093157_en_1) and Scotland [SSI 2009 No 440](http://www.opsi.gov.uk/legislation/scotland/ssi2009/ssi_20090440_en_1) came into effect on 31 December 2009.
 
-The INSPIRE (Amendment) Regulations 2012 update the INSPIRE Regulations 2009 to take account of technical Implementing Rules made by the European Commission since the INSPIRE Directive was made. Further amending statutory instruments may be introduced if required to complete transposition as new EC IRs are made.
+The [INSPIRE (Amendment) Regulations 2012](http://www.legislation.gov.uk/uksi/2012/1672/contents/made) continue the transposition into UK law of INSPIRE these came into effect on 1 August 2012. The [INSPIRE (Scotland) Amendment Regulations 2012](http://www.legislation.gov.uk/ssi/2012/284/contents/made) came into effect on 23 November 2012. The amendments update the UK INSPIRE Regulations to take account of technical implementing rules made by the European Commission since the INSPIRE Directive was made. Further amending regulations may be introduced if required to complete transposition as new EC implementing rules are made.
 
-A informal consolidated text of the INSPIRE Regulations which shows the some amendments made in August 2012 is available [in the data.gov.uk library](http://data.gov.uk/library/uklp-inspire-regulations-informal-text).
+A informal consolidated text of the INSPIRE Regulations which shows the amendments made in August 2012 is available [in the data.gov.uk library](http://data.gov.uk/library/uklp-inspire-regulations-informal-text).
 
 An impact assessment for implementation of INSPIRE in England, Wales and Northern Ireland is available as part of the [Explanatory Memorandum](http://www.legislation.gov.uk/uksi/2009/3157/pdfs/uksiem_20093157_en.pdf) which accompanies the INSPIRE Regulations 2009.
