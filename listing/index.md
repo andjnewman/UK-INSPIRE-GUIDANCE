@@ -13,6 +13,6 @@ menu_tagline: Guides are articles concentrating on a specific theme or technolog
 </div>
 <div class="row">
 	<div class="three-thirds columnise-lists">
-		{% include guides_menu.html %}
+		{% include listing_menu.html %}
 	</div>
 </div>
