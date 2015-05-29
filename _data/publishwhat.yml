@@ -22,7 +22,7 @@ sections:
       - organograms
 
   LocationData:
-    title: LocationData
+    title: Location Data
     menupage: location-data-top
     pages:
       - what-is-inspire
