@@ -1,6 +1,6 @@
 ---
 title: Location Data
-layout: default
+layout: publishwhat_guides
 menu_tagline: This set of guides provides information about the types of location data that can be listed on DATA.GOV.UK including INSPIRE Data.
 ---
 
