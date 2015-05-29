@@ -1,4 +1,4 @@
----
+ï»¿---
 title: What is INSPIRE?
 layout: publishwhat_guides
 author: Andrew
@@ -17,7 +17,7 @@ INSPIRE will enable data users to access and reuse data from multiple providers 
 * access network services to consume data
 * integrate and process data from many sources
 
-INSPIRE complements the government’s transparency and open data policies. Contributing directly to improvements in the way that data are published, and making it easier for users across the public, private and third sector to find data, and reuse it.
+INSPIRE complements the government's transparency and open data policies. Contributing directly to improvements in the way that data are published, and making it easier for users across the public, private and third sector to find data, and reuse it.
 
 # INSPIRE Deadlines
 
