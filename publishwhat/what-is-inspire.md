@@ -5,11 +5,9 @@ author: Andrew
 abstract: "This guide provides an overview of INSPIRE, including its purpose, relevent legislation and timeline."
 ---
 
-# An Overview of INSPIRE
+The spatial information held by European countries does not join-up but the environment does. Environmental issues such as flooding, forest fires and climate change do not respect national borders.
 
-The geographical information held by European countries does not currently join up - but the environment does. Environmental issues such as flooding, forest fires and climate change do not respect national borders.
-
-To manage the environment better at European, national and local levels change is needed in how geographical information is managed and made available. INSPIRE seeks to make those changes happen by establishing a pan-European Spatial Data Infrastructure to enable the sharing of environmental information.
+To manage the environment better at European, national and local levels change is needed in how spatial information is managed and made available. INSPIRE seeks to make those changes happen by establishing a pan-European Spatial Data Infrastructure to enable the sharing of environmental information.
 
 INSPIRE will enable data users to access and reuse data from multiple providers by forcing organisations to share their data using standardised network services whilst applying common data structures. INSPIRE will allow data users to:
 
@@ -19,34 +17,34 @@ INSPIRE will enable data users to access and reuse data from multiple providers 
 
 INSPIRE complements the government's transparency and open data policies. Contributing directly to improvements in the way that data are published, and making it easier for users across the public, private and third sector to find data, and reuse it.
 
-# INSPIRE Deadlines
+## INSPIRE Deadlines
 
-INSPIRE imposes challenging deadlines, by December 2013 any data in scope of INSPIRE should have been published in-line with certain technical standards. Between 2012 and 2020, data must be transformed to comply with a standard set of data models to make data interoperable across Europe.
+INSPIRE imposes challenging deadlines, by December 2013 any data in scope of INSPIRE should have been published in-line with mandated technical standards. Between 2012 and 2020, a standard set of data models must be applied to data to make it interoperable across Europe.
 
-## New and Extensively Restructured Data
+### New and Extensively Restructured Data
 
 INSPIRE demands that any new or extensively restructured data be made compliant sooner than existing data.  INSPIRE should be considered when specifying new data and this data should be published as soon as is practical.
 
-##INSPIRE Timeline
+### INSPIRE Timeline
 
 The full INSPIRE timeline is setout below:
 
 Date | Milestone | Notes
 ---- | --------- | ------ 
-December 2010 | Compliant discovery metadata created (and available) for INSPIRE Annex I & II datasets | x
+December 2010 | Compliant discovery metadata created (and available) for INSPIRE Annex I & II datasets | 
 May 2011 | View services established for INSPIRE Annex I & II datasets (start of initial operating capability). | Not required to meet INSPIRE quality of service criteria.
 November 2011 | Full view services established for INSPIRE Annex I & II datasets (end of initial operating capability). | Required to meet INSPIRE quality of service criteria.
-June 2012 | Download and coordinate transformation services established (start of initial operating capability). | x
+June 2012 | Download and coordinate transformation services established (start of initial operating capability). | 
 December 2012 | Full download & coordinate transformation services capability (end of initial operating capability). | Required to meet INSPIRE quality of service criteria.
-December 2013 | Full discovery metadata, view and download services made available for INSPIRE Annex III datasets | x
-December 2012 | Newly collected and extensively restructured INSPIRE Annex I compliant data available | x
-October 2015 | Newly collected and extensively restructured INSPIRE Annex II and III compliant data available. | x
-June 2017 | INSPIRE Annex I compliant data available | x
-October 2020 | INSPIRE Annex II and III compliant data available | x
+December 2013 | Full discovery metadata, view and download services made available for INSPIRE Annex III datasets | 
+December 2012 | Newly collected and extensively restructured INSPIRE Annex I compliant data available | 
+October 2015 | Newly collected and extensively restructured INSPIRE Annex II and III compliant data available. | 
+June 2017 | INSPIRE Annex I compliant data available | 
+October 2020 | INSPIRE Annex II and III compliant data available | 
 
-# INSPIRE Legislation
+## INSPIRE Legislation
 
-##European Legislation
+### European Legislation
 
 The Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) was published in the official journal on the 25th April 2007. The INSPIRE Directive entered into force on the 15th May 2007.
 
@@ -56,7 +54,7 @@ To ensure that the spatial data infrastructures of the member states are compati
 
 * [Find the full list of European INSPIRE Legislation on the INSPIRE website](http://inspire.ec.europa.eu/index.cfm/pageid/3)
 
-## The UK INSPIRE Regulations
+### The UK INSPIRE Regulations
 
 To implement INSPIRE in the UK separate but broadly consistent regulations covering England, Northern Ireland and Wales; [SI 2009 No 3157](http://www.opsi.gov.uk/si/si2009/uksi_20093157_en_1) and Scotland [SSI 2009 No 440](http://www.opsi.gov.uk/legislation/scotland/ssi2009/ssi_20090440_en_1) came into effect on 31 December 2009. The [INSPIRE (Amendment) Regulations 2012](http://www.legislation.gov.uk/uksi/2012/1672/contents/made) continue the transposition into UK law of INSPIRE these came into effect on 1 August 2012. The [INSPIRE (Scotland) Amendment Regulations 2012](http://www.legislation.gov.uk/ssi/2012/284/contents/made) came into effect on 23 November 2012.
 
